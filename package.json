@@ -1,0 +1,23 @@
+{
+  "name": "npm-tag-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alphawq/test.git"
+  },
+  "keywords": [],
+  "author": "Aphasia <alphawq@foxmail.com> (http://alphawq.xyz/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alphawq/test/issues"
+  },
+  "homepage": "https://github.com/alphawq/test#readme",
+  "dependencies": {
+    "npm-tag-1": "^1.0.0"
+  }
+}
